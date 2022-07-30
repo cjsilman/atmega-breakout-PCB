@@ -27,3 +27,10 @@ Here are a couple things I learned along the way:
 
  4. Using a GND plane allows for better signal integrity and more resistance to interference.
  - Using one via per GND pin reduces the issue of potentially creating a ground loop and minimizes noise.
+
+5. USBs are typically designed with something known as "differential pairs"
+- On the schematic below, you can see D+ and D-, the postive and negative sign typically denote differential pairings
+- Differential pair PCB routing is used to create a balanced transmission system able to carry equal and opposite signals.
+  - These two lines are usually of equal length
+
+![image](https://user-images.githubusercontent.com/75451857/181872039-e1b47c70-9be7-494d-a3d3-bd0ea997f8ab.png)
