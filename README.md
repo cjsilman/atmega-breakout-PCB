@@ -10,10 +10,10 @@ Here are a couple things I learned along the way:
 
 2. The load capacitance of the crystal oscillator is used to calculate the decoupling capacitors associated with it. While 22pF capacitors is quite common, it is important to choose proper capacitor values to allow for more accurate and stable results of the crystal.
 
- - The capacitor values can be broken down into a formula like this:
+ The capacitor values can be broken down into a formula like this:
  - C1, C2 = 2*Cload-2*Cstray
 
- - Cload, or the load capacitor, is retrieved from the datasheet of the specific crystal you choose.
+ Cload, or the load capacitor, is retrieved from the datasheet of the specific crystal you choose.
  - Cstray, or the stray capacitance, is the typically between avalue of 3-5pF.
  - Cstray is the parasitic capacitance formed between two traces separated by a dielectric (caused by potential different genred by current carrying traces running in   close proximity to one another)
  
