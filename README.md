@@ -20,8 +20,6 @@ Here are a couple things I learned along the way:
  - Cstray is the parasitic capacitance formed between two traces separated by a dielectric (caused by potential different genred by current carrying traces running in   close proximity to one another)
  
  3. The MCU datasheet will have a lot of guidelines for when it comes to designing with that specific IC. Make sure to follow them.
- 
- ![image](https://user-images.githubusercontent.com/75451857/181871920-f8ffcb24-3728-4402-97f6-b420e0716e91.png)
 
  4. Using a GND plane allows for better signal integrity and more resistance to interference.
  - Using one via per GND pin reduces the issue of potentially creating a ground loop and minimizes noise.
