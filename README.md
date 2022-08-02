@@ -3,7 +3,7 @@ This PCB project is meant to replicate a simple atmega32u4 microcontroller board
 
 As the idea of designing my own PCB always fascinated me, I thought it would be interesting to give designing one a shot!
 
-While searching around the market of which MCU to use, I choose the ATMEGA32u4 as it comes with a pre-installed bootloader, allowing you to program it via the USB right from the start.
+While searching around the market for which MCU to use, I choose the ATMEGA32u4 as it comes with a pre-installed bootloader, allowing you to program it via the USB right from the start.
 This MCU also came with USB support, something I wanted in my PCB. It was quite the learning process. I feel like I learned quite a bit that I want to share.
 
 ![image](https://user-images.githubusercontent.com/75451857/181871264-cc567129-c8c9-423a-ae4a-b7c5cdc2666f.png)
