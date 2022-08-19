@@ -41,3 +41,7 @@ I discovered that USBs are typically designed with something known as "different
 ![image](https://user-images.githubusercontent.com/75451857/181872039-e1b47c70-9be7-494d-a3d3-bd0ea997f8ab.png)
 
 If you have any advice for me or would like to talk to me about certain design decisions feel free to give me a message! I am always looking to learn new things and improve my knowledge
+
+# Full Schematic
+![image](https://user-images.githubusercontent.com/75451857/185668366-d9b2fad1-16e1-4ced-8fe0-f487eae26e6f.png)
+
